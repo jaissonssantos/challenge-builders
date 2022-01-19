@@ -1,7 +1,7 @@
 ## Images
 
-![picture](screenshot/screenshot-01.png)
-![picture](screenshot/screenshot-02.png)
+![picture](screenshots/screenshot-01.png)
+![picture](screenshots/screenshot-02.png)
 
 ## Available Scripts
 
